@@ -1,1 +1,3 @@
-# Market_Basket_Analysis_R
+# Market Basket Analysis using R
+
+Datasource: UCI Machine Learning Laboratory
